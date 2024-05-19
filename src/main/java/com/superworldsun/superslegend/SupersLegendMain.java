@@ -23,6 +23,7 @@ import org.slf4j.Logger;
 
 import software.bernie.geckolib.GeckoLib;
 
+//TODO: make sounds.json use translatable text instead of literal.
 @Mod(SupersLegendMain.MOD_ID)
 public class SupersLegendMain {
 
